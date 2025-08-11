@@ -17,9 +17,7 @@
 
 </head>
 
-<body __processed_d4f26783-b229-4287-a963-3bc2a34b8345__="true" class="fullscreen-layout" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=" monica-id="ofpnmcalabcbjgholdjcjblkibolbppb" monica-version="7.9.7">
-    <div class="container-lg px-3 my-5 markdown-body" bis_skin_checked="1">    
-  <h1><a href="https://sweetie-ntc.github.io/Ha_Nger/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ha_Nger</font></font></a></h1>
+<body>
   class="fullscreen-layout">
   <section id="wainiidev-main">
     <link rel="preconnect" href="https://fonts.googleapis.com">

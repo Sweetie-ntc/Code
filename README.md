@@ -1,8 +1,5 @@
 <html lang="vi">
 <head>
-  <title>
-  This code is for Nguyet Ha
-  </title>
   <!-- Required meta tags -->
      <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">

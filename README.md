@@ -18,7 +18,6 @@
 </head>
 
 <body>
-  class="fullscreen-layout">
   <section id="wainiidev-main">
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
